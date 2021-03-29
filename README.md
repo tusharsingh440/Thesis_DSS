@@ -5,6 +5,8 @@ Source for the data.  https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#ma
 
 Source code for the knowledge distillation from here. https://keras.io/examples/vision/knowledge_distillation/
 
+Also this page helped me a lot. https://wandb.ai/authors/knowledge-distillation/reports/Distilling-Knowledge-in-Neural-Networks--VmlldzoyMjkxODk
+
 Source code for image comparison method SSIM is from here. https://www.pyimagesearch.com/2014/09/15/python-compare-two-images/
 
 Source code for gradcam is from here. https://keras.io/examples/vision/grad_cam/
